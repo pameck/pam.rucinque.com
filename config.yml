@@ -1,7 +1,7 @@
 BaseUrl: http://pam.rucinque.com/
 LanguageCode: en-AU
 Title: Pam Rucinque
-paginate :
+paginate : 5
 Copyright : All rights reserved - 2016
 canonifyurls : true
 theme: casper
