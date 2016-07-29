@@ -1,0 +1,20 @@
+BaseUrl: http://pam.rucinque.com/
+LanguageCode: en-AU
+Title: Pam Rucinque
+paginate :
+Copyright : All rights reserved - 2016
+canonifyurls : true
+
+params:
+  description : Posts in English and Spanish
+  cover : images/cover.jpg
+  author : Pam Rucinque
+  authorlocation : Melbourne, Australia
+  #  googleAnalyticsUserID : UA-79101-12
+  githubName : pameck
+  twitterName : pamrucinque
+  RSSLink :
+  # facebookName :
+  # linkedinName :
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport : als
