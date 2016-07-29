@@ -4,6 +4,7 @@ Title: Pam Rucinque
 paginate :
 Copyright : All rights reserved - 2016
 canonifyurls : true
+theme: casper
 
 params:
   description : Posts in English and Spanish
