@@ -1,5 +1,5 @@
 +++
-date = "2016-07-29T17:37:41+10:00"
+date = "2016-07-31T21:19:31+10:00"
 title = "El Software también es cuestión de mujeres"
 draft = false
 slug = "sw-cuestion-de-mujeres"
