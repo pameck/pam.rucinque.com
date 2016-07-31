@@ -7,7 +7,7 @@ canonifyurls : true
 theme: casper
 
 params:
-  description : Posts in English and Spanish
+  description : Developer * Feminist * Digital Privacy Advocate
   cover : images/cover.jpg
   author : Pam Rucinque
   authorlocation : Melbourne, Australia
