@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = true
 slug = "post-title"
-tags = ["australia", "indigenas"]
+tags = ["australia", "indigenas", "spanish"]
 title = "Lo que no conocía de Australia: sus comunidades indígenas"
 
 +++

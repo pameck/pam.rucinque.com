@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = true
 slug = "learning-ansible"
-tags = ["DevOps", "Ansible", "tech"]
+tags = ["DevOps", "Ansible", "tech", "english"]
 title = "Learning Ansible the hard way"
 
 +++

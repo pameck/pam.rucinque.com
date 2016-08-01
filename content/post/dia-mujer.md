@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = true
 slug = "dia-mujer-colombiano"
-tags = ["dia_mujer", "feminismo", "colombia"]
+tags = ["dia_mujer", "feminismo", "colombia", "spanish"]
 title = "Día de la mujer, a la colombiana."
 
 +++
