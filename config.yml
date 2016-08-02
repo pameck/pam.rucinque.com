@@ -7,7 +7,7 @@ canonifyurls : true
 theme: casper
 
 params:
-  description : Developer * Women in Tech Advocate
+  description : Developer * Women-in-Tech and Digital Privacy Advocate
   cover : images/cover.jpg
   author : Pam Rucinque
   authorlocation : Melbourne, Australia
