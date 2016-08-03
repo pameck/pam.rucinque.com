@@ -3,7 +3,7 @@ LanguageCode: en-AU
 Title: Pam Rucinque
 paginate : 5
 Copyright : All rights reserved - 2016
-canonifyurls : true
+canonifyurls : false
 theme: casper
 
 params:
