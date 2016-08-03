@@ -6,7 +6,7 @@ function test_website {
   response=$(curl --write-out %{http_code} --silent --output /dev/null $website)
   echo "Website status code:" $response
 
-  if [ "$response" -eq "200" ] || [ "$response" -eq "300" ]
+  if [ "$response" -eq "200" ] || [ "$response" -eq "301" ]
     then
       echo "All good with:" $website
       echo "-----------"
