@@ -8,7 +8,7 @@ theme: casper
 
 params:
   description : Developer * Women-in-Tech and Digital Privacy Advocate
-  cover : images/cover.jpg
+  cover : images/cover3.jpg
   author : Pam Rucinque
   authorlocation : Melbourne, Australia
   googleAnalyticsUserID : UA-81873608-1
@@ -18,4 +18,4 @@ params:
   # facebookName :
   linkedinName : pamelarucinqueserna
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport : als
+  hideHUGOSupport : false
