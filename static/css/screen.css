@@ -162,6 +162,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-linkedin:before {
     content: "\f208";
 }
+.icon-flickr:before {
+    content: "\f211";
+}
 .icon-arrow-left:before {
     content: "\f431";
 }
