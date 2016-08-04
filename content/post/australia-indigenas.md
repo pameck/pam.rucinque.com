@@ -3,10 +3,9 @@ author = ""
 comments = true
 date = "2016-07-31T21:51:05+10:00"
 draft = false
-image = ""
 menu = ""
 share = true
-slug = "post-title"
+slug = "comunidades-indigenas-australianas"
 tags = ["australia", "indigenas", "spanish"]
 title = "Lo que no conocía de Australia: sus comunidades indígenas"
 
