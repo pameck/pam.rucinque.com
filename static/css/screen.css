@@ -162,6 +162,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-linkedin:before {
     content: "\f208";
 }
+.icon-home:before {
+    content: "\f409";
+}
 .icon-flickr:before {
     content: "\f211";
 }
@@ -1197,8 +1200,9 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .post-head.main-header {
-    height: 65vh;
+    height: 35vh;
     min-height: 180px;
+    padding: 0;
 }
 
 .no-cover.post-head.main-header {
