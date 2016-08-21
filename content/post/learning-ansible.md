@@ -9,7 +9,8 @@ share = true
 slug = "learning-ansible"
 tags = ["DevOps", "Ansible", "tech", "english"]
 title = "Learning Ansible the hard way"
-
+comments = true
+share = true
 +++
 <br>
 **The challenge:** Nothing gets installed unless a script does it.
