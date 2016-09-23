@@ -1,5 +1,5 @@
 +++
-author = "A friend of H4P"
+author = ""
 date = "2016-09-24T08:05:52+10:00"
 draft = false
 image = "images/post-cover.jpg"
@@ -79,10 +79,11 @@ The name entry here is what is displayed in the recipient’s notifications. Fee
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="WhatsApp settings for the privacy aware">
-<meta name="twitter:image" content="http://pamrucinque.com/images/whatsapp.png">
+<meta name="twitter:image" content="https://pamrucinque.com/images/whatsapp.png">
 
 <!-- Open Graph data -->
 <meta property="og:title" content="WhatsApp settings for the privacy aware">
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://pamrucinque.com/post/whatsapp-settings" />
-<meta property="og:image" content="http://pamrucinque.com/images/whatsapp.png" />
+<meta property="og:image" content="https://pamrucinque.com/images/whatsapp.png" />
+<meta property="og:description" content="Here are some settings you can change on WhatsApp to make it a little bit better." />
