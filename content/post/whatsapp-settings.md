@@ -76,3 +76,13 @@ The name entry here is what is displayed in the recipient’s notifications. Fee
 0. Use a strong passcode on the device
 
 0. Have a short time-out window on the device (less than 3 minutes)
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="WhatsApp settings for the privacy aware">
+<meta name="twitter:image" content="http://pamrucinque.com/images/whatsapp.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="WhatsApp settings for the privacy aware">
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://pamrucinque.com/post/whatsapp-settings" />
+<meta property="og:image" content="http://pamrucinque.com/images/whatsapp.png" />
