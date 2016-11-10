@@ -11,6 +11,7 @@ params:
   cover : images/cover3.jpg
   author : Pam Rucinque
   authorlocation : Melbourne, Australia
+  googleAnalyticsUserID : UA-81873608-1
   githubName : pameck
   twitterName : pamrucinque
   RSSLink :
