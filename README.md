@@ -1,6 +1,6 @@
 # pamrucinque.com
 
-[![Build Status](https://app.snap-ci.com/pameck/pam.rucinque.com/branch/master/build_image)](https://github.com/pameck/pam.rucinque.com/branch/master)
+[![Build Status](https://app.snap-ci.com/pameck/pam.rucinque.com/branch/master/build_image)](https://app.snap-ci.com/pameck/pam.rucinque.com/branch/master)
 
 My personal Website.
 
