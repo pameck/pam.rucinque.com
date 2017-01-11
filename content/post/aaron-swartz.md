@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 slug = "recordando-a-aaron-swartz"
 share = true
 date = "2017-01-11T21:04:55+11:00"
