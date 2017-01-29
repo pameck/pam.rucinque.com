@@ -7,7 +7,7 @@ share = true
 title = "WhatsApp settings for the privacy aware"
 +++
 
-Here are some settings you can change on WhatsApp to make it a little bit better. <!-- more -->
+Here are some settings you can change on WhatsApp to make it a little bit better. <!--more-->
 
 By the way, WhatsApp changed its privacy policy and [it is now sharing users' personal information](https://hackforprivacy.org/post/whatsapp.html) with Facebook and other Facebook-owned companies.
 

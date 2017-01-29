@@ -11,7 +11,7 @@ tags = ["dia_mujer", "feminismo", "colombia", "spanish"]
 title = "Día de la mujer, a la colombiana."
 
 +++
-Y como todos los 8 de marzo, muy temprano comencé a recibir imágenes tipo “credencial de los 90s” que me felicitaban por ser “frágil, luchadora, bondadosa, loca y cariñosa” <!-- more -->, con tonos rosados y morados y una que otra flor en el fondo para que no quepa la menor duda que es dirigido a las mujeres.
+Y como todos los 8 de marzo, muy temprano comencé a recibir imágenes tipo “credencial de los 90s” que me felicitaban por ser “frágil, luchadora, bondadosa, loca y cariñosa” <!--more-->, con tonos rosados y morados y una que otra flor en el fondo para que no quepa la menor duda que es dirigido a las mujeres.
 
 Facebook se llenó de mensajes felicitando a las mamás, esposas, amigas y a todas aquellas mujeres hermosas que hacen sus vidas maravillosas. Las empresas felicitaron a todas esas mujeres valientes que hacen a su empresa más grande y a eso de las 4 de la tarde, repartieron empanadas con gaseosa. Y listo! Ahí terminó el cuasi-segundo día de la madre del año.
 
