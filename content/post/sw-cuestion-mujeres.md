@@ -10,7 +10,7 @@ share = false        # set false to share buttons
 menu = ""           # set "main" to add this content to the main menu
 +++
 
-En los más de 9 años que llevo trabajando como desarolladora de software he estado en equipos rodeada por hombres.<!-- more -->He conocido muy pocas mujeres que codifiquen y siempre creí que era resultado de la genética: “Los hombres tienen un cerebro más lógico que las mujeres, mis colegas y yo debemos ser accidentes de la naturaleza”, pensaba.
+En los más de 9 años que llevo trabajando como desarolladora de software he estado en equipos rodeada por hombres.<!--more--> He conocido muy pocas mujeres que codifiquen y siempre creí que era resultado de la genética: “Los hombres tienen un cerebro más lógico que las mujeres, mis colegas y yo debemos ser accidentes de la naturaleza”, pensaba.
 
 El software es un mundo dominado por hombres, ninguna sorpresa en esto; sin embargo, lo que sí me sorprendió fue la proporción en la que los hombres dominan este campo: Stack OverFlow publicó los resultados de una encuesta que realizó a 26.086 programadores de 157 países, el resultado: **92% son hombres** y tan solo un **5.8% mujeres**[1].
 
