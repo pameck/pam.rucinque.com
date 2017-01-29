@@ -10,7 +10,7 @@ title = "Confesiones de una dev ansiosa"
 
 +++
 <br>
-En la semana entro en pánico, por lo menos, 10 veces. <!--more--> Después de casi una década en la profesión, frecuentemente
+En la semana entro en pánico, por lo menos, 10 veces. <!-- more --> Después de casi una década en la profesión, frecuentemente
 siento que no sé nada, **ABSOLUTAMENTE NADA!!** _(momento de pánico #11 registrado)_.
 
 Hace un tiempo le comentaba a una amiga mi sensación y ella me dijo: Ah! Estás hablando del síndrome del impostor, y la vida me cambió!Bueeeh! Realmente no me cambió, pero al menos pude ponerle nombre al vacío que siento en el estómago cada vez que escucho un nuevo concepto, paradigma, lenguaje, framework, técnica o término que no sé y que el resto parece discutir con tanta naturalidad.

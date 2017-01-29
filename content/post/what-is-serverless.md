@@ -11,7 +11,7 @@ menu = ""
 +++
 <br>
 _Serverless_ es un concepto tan abstracto como _la nube_ y con un nombre igual de perverso, pero en la práctica es bastante útil.
-Este post consiste en una introducción muy simplificada al tema: qué es, para qué se puede usar, ventajas y desventajas.<!--more-->
+Este post consiste en una introducción muy simplificada al tema: qué es, para qué se puede usar, ventajas y desventajas.<!-- more -->
 
 _Serverless_ significa, literalmente, -_sin servidor_-, y es allí donde mi problema con el nombre empieza, "_servidor_" puede hacer referencia a:
 

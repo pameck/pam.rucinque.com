@@ -20,7 +20,7 @@ comments = true
 
 Un 11 de Enero como hoy, hace 4 años, murió Aaron Swartz. No era el tipo más popular de mundo,
 yo solamente supe de él hasta 2 años después de su muerte, pero su legado es grande y
-se ha convertido en una gran influencia para mi carrera.<!--more-->
+se ha convertido en una gran influencia para mi carrera. <!-- more -->
 
 <figure>
   <img src="/images/aaron-swartz.jpg" />

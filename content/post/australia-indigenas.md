@@ -20,7 +20,7 @@ title = "Lo que no conocía de Australia: sus comunidades indígenas"
 </style>
 
 <br>
-Australia es más que canguros, koalas, playas y gente surfeando. Eso suena bastante obvio, pero hay un aspecto de Australia que no es tan popular: sus comunidades indígenas.<!--more--> Sospecho que la culpa no fue tan solo mi ignorancia, sino la falta de reconocimiento de los indígenas dentro del mismo país.
+Australia es más que canguros, koalas, playas y gente surfeando. Eso suena bastante obvio, pero hay un aspecto de Australia que no es tan popular: sus comunidades indígenas.<!-- more --> Sospecho que la culpa no fue tan solo mi ignorancia, sino la falta de reconocimiento de los indígenas dentro del mismo país.
 
 <figure>
     <img src="/images/oz-indigenas-kids.jpeg" />
