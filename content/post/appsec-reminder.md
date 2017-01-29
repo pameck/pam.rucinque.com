@@ -1,13 +1,12 @@
 +++
-comments = true
-tags = ["security","tech", "english"]
-title = "An AppSec Reminder Series"
 draft = false
-share = true
 slug = "appsec-reminder"
+share = true
 date = "2017-01-29T12:34:24+11:00"
+title = "An AppSec Reminder Series"
+tags = ["security","tech", "english"]
 image = "images/post-cover.jpg"
-
+comments = true
 +++
 <br>
 
