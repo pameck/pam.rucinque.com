@@ -8,14 +8,6 @@ tags = ["spanish"]
 image = "images/post-cover.jpg"
 comments = true
 +++
-<style>
-.caption {
-    color: #666;
-    font-size:small;
-    font-weight:normal;
-}
-</style>
-
 <br>
 
 Un 11 de Enero como hoy, hace 4 años, murió Aaron Swartz. No era el tipo más popular de mundo,
