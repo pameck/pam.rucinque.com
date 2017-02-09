@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/pamrucinque
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pamrucinque.com
+  * I am pamrucinque (https://keybase.io/pamrucinque) on keybase.
+  * I have a public key ASBxvVWMDcKRCSa9sVJJR3U8uxJE75UiEBxYVv82JyjUbQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012071bd558c0dc2910926bdb1524947753cbb1244ef9522101c5856ff362728d46d0a",
+            "host": "keybase.io",
+            "kid": "012071bd558c0dc2910926bdb1524947753cbb1244ef9522101c5856ff362728d46d0a",
+            "uid": "cc460d67874c65a5922c3f01cb042b19",
+            "username": "pamrucinque"
+        },
+        "service": {
+            "hostname": "pamrucinque.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486627564,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486627547,
+        "hash": "5aed800b65b1d9710b93c194f683b9cfcd750ed1b721775b3f3653250076d927bfaf0190567b482e9551193661e3a193af32b93cb30345796860a8250700bd64",
+        "seqno": 854409
+    },
+    "prev": "ee5ba580b0fc45c4e2a527ea68021cba68ee6aa1d55897a119886254d6a007e0",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcb1VjA3CkQkmvbFSSUd1PLsSRO+VIhAcWFb/Nico1G0Kp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzFiZDU1OGMwZGMyOTEwOTI2YmRiMTUyNDk0Nzc1M2NiYjEyNDRlZjk1MjIxMDFjNTg1NmZmMzYyNzI4ZDQ2ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzFiZDU1OGMwZGMyOTEwOTI2YmRiMTUyNDk0Nzc1M2NiYjEyNDRlZjk1MjIxMDFjNTg1NmZmMzYyNzI4ZDQ2ZDBhIiwidWlkIjoiY2M0NjBkNjc4NzRjNjVhNTkyMmMzZjAxY2IwNDJiMTkiLCJ1c2VybmFtZSI6InBhbXJ1Y2lucXVlIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwYW1ydWNpbnF1ZS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NjYyNzU2NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg2NjI3NTQ3LCJoYXNoIjoiNWFlZDgwMGI2NWIxZDk3MTBiOTNjMTk0ZjY4M2I5Y2ZjZDc1MGVkMWI3MjE3NzViM2YzNjUzMjUwMDc2ZDkyN2JmYWYwMTkwNTY3YjQ4MmU5NTUxMTkzNjYxZTNhMTkzYWYzMmI5M2NiMzAzNDU3OTY4NjBhODI1MDcwMGJkNjQiLCJzZXFubyI6ODU0NDA5fSwicHJldiI6ImVlNWJhNTgwYjBmYzQ1YzRlMmE1MjdlYTY4MDIxY2JhNjhlZTZhYTFkNTU4OTdhMTE5ODg2MjU0ZDZhMDA3ZTAiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAU7M2pjEP0K6Uh1GtJXOzTyV4ImhUAH8cVHR8TEZuIqMtzsp9T28upwk1pXvDkrzMGIdLdXlLkBbPRrd/6UDQAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINVs9XODcYqh0meCSoDAkKxRmchyusAt6Qbl/csN/W+Ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pamrucinque
+
+==================================================================
