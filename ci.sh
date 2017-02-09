@@ -9,4 +9,7 @@ tar xvzf ${DOWNLOAD_FILE_NAME}
 
 ./hugo -v
 
+mkdir public/.well-known
+cp keybase/keybase.txt public/.well-known
+
 aws s3 sync public/ s3://${S3_BUCKET} --acl public-read --region ap-southeast-2 --delete --cache-control "max-age=300,s-maxage=300"
