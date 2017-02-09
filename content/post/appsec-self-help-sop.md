@@ -1,16 +1,16 @@
 +++
 draft = false
-slug = "appsec-reminder-sop"
+slug = "appsec-self-help-sop"
 share = true
 date = "2017-01-29T13:35:24+11:00"
-title = "An AppSec Reminder: SOP"
+title = "AppSec Self Help: Same Origin Policy"
 tags = ["security","tech", "english"]
 image = "images/post-cover.jpg"
 comments = true
 +++
 <br>
 
-This post is part of a series that started [here](/post/appsec-reminder). This one specifically is about SOP, the cornerstone of Web security. <!--more-->
+This post is part of a "self help adventure" I started [here](/post/appsec-self-help). This one specifically is about SOP, the cornerstone of Web security. <!--more-->
 
 ### SOP
 The Same Origin Policy exists because we need to protect end-users, those accessing websites through browsers. _If SOP didn't exist, this is what could go wrong:_
@@ -40,7 +40,7 @@ http.post({
 ```
 
 If SOP didn't exist, BestBank would get the request and check that the cookie `user_session=q847394872n7cwfisdhfsdhfls;` is present.
-And it would be indeed, because the **browser sends with every request to BestBank the cookies it has for BestBank's origin.**
+And it would be indeed, because the **browser sends in every request to BestBank the cookies it has for BestBank's origin.**
 
 ```
 POST /transfer/ HTTP/1.1
@@ -49,7 +49,7 @@ Referer: http://dodgy-looking-website.com
 Cookie: user_session=q847394872n7cwfisdhfsdhfls;
 ```
 
-This attack I just described is known as **[CSRF]**, or Cross Site Request Forgery.
+This attack I just described is known as **CSRF**, or Cross Site Request Forgery.
 
 **So, how does SOP help?**
 
@@ -63,6 +63,5 @@ ps: Browsers do allow requests (only `GET` requests) to a different origin from 
 
 ps2: SOP prevents a website on another tab to steal the cookie, but the attacker could still use other attacks to execute that Javascript but within the BestBank, which means the origins will match! That is call cross-site scripting or XSS and it is also material for a different post!
 
-[origin]: http://CHANGEMEFORAREALREFERENCE
-[CORS]: /post/appsec-reminder-cors
-[CSRF]: /post/appsec-reminder-csrf
+[origin]: https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy#Definition_of_an_origin
+[CORS]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
