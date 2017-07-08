@@ -6,4 +6,4 @@ cd $(dirname $0)/..
 S3_BUCKET=pamrucinque.com
 
 echo "--- Publish new site"
-aws s3 sync public/ s3://${S3_BUCKET} --acl public-read --region ap-southeast-2 --delete --cache-control "max-age=300,s-maxage=300"
+docker-compose run --rm --service-ports awscli aws s3 sync public/ s3://${S3_BUCKET} --acl public-read --region ap-southeast-2 --delete --cache-control "max-age=300,s-maxage=300"

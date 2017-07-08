@@ -9,3 +9,13 @@ services:
       - .:/work
     ports:
       - "1313:1313"
+  awscli:
+    image: infrastructureascode/aws-cli
+    working_dir: /work
+    entrypoint: ""
+    command: "bash"
+    volumes:
+      - .:/work
+    environment:
+      AWS_ACCESS_KEY_ID:
+      AWS_SECRET_ACCESS_KEY:
