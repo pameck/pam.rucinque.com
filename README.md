@@ -8,10 +8,6 @@ Install dependencies:
 
     brew install hugo
 
-Checkout the code:
-
-    git clone --recursive git@github.com:pameck/pam.rucinque.com.git
-
 Build the site in watch mode:
 
     hugo server --buildDrafts --watch
