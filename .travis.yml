@@ -1,0 +1,9 @@
+services:
+  - docker
+
+install: true
+
+script: auto/build
+
+deploy:
+  - if [ "$TRAVIS_BRANCH" == "master" ]; auto/deploy; fi
