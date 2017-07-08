@@ -6,4 +6,8 @@ install: true
 script: auto/build
 
 deploy:
-  - if [ "$TRAVIS_BRANCH" == "master" ]; auto/deploy; fi
+  skip_cleanup: true
+  provider: script
+  script: auto/deploy
+  on:
+    branch: master
