@@ -1,0 +1,4 @@
+#! /bin/bash
+set -e -u
+
+docker-compose run --rm --service-ports dev hugo server --buildDrafts --watch -b http://localhost:1313 --bind=0.0.0.0

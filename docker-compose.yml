@@ -1,0 +1,11 @@
+version: '3'
+services:
+  hugo:
+    image: pamrucinque/hugo:latest
+    working_dir: /work
+    entrypoint: ""
+    command: "bash"
+    volumes:
+      - .:/work
+    ports:
+      - "1313:1313"
