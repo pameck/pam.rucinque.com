@@ -11,7 +11,7 @@ image = "images/post-cover.jpg"
 +++
 <br>
 
-This post is part of a series that started [here](/post/appsec-reminder). In this post I will look into the details of CORS _(pun not intended)_. What is it? and, what does it solve? <!--more-->
+This post is part of a series that started [here](/post/appsec). In this post I will look into the details of CORS _(pun not intended)_. What is it? and, what does it solve? <!--more-->
 
 ### CORS
 
@@ -28,5 +28,5 @@ Maggie deployed a static website in `https://dev-cats-dev.me` and she wants to d
 **Browsers** (and browsers only!) will check the [origin] of the website making the request, and the origin where the request is going. If they match, the browser will allow the request, if they don't match, then the browser won't make the request. _(unless it is an allowed [CORS] request)_.
 
 
-[origin]: http://CHANGEMEFORAREALREFERENCE
-[SOP]: /appsec-reminder-sop
+[origin]: https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy#Definition_of_an_origin
+[SOP]: /post/appsec-reminder-sop

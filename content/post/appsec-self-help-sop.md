@@ -1,19 +1,16 @@
 +++
 draft = false
-slug = "appsec-self-help-sop"
+slug = "appsec-sop"
 share = true
 date = "2017-01-29T13:35:24+11:00"
-title = "AppSec Self Help: Same Origin Policy"
+title = "AppSec: Same Origin Policy"
 tags = ["security","tech", "english"]
 image = "images/post-cover.jpg"
 comments = true
 +++
 <br>
 
-This post is part of a "self help adventure" I started [here](/post/appsec-self-help). This one specifically is about SOP, the cornerstone of Web security. <!--more-->
-
-### SOP
-The Same Origin Policy exists because we need to protect end-users, those accessing websites through browsers. _If SOP didn't exist, this is what could go wrong:_
+The Same Origin Policy exists because we need to protect end-users, those accessing websites through browsers. _If SOP didn't exist, this is what could go wrong:_ <!--more-->
 
 **Scenario:**
 
