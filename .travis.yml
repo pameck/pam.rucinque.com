@@ -13,3 +13,5 @@ deploy:
   script: auto/deploy
   on:
     branch: master
+
+after_deploy: auto/smoke_test
