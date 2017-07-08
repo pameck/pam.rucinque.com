@@ -5,3 +5,7 @@ cd $(dirname $0)/..
 
 echo "--- Build static website"
 auto/dev hugo -v
+
+echo "--- Keybase stuff"
+sudo mkdir public/.well-known
+sudo cp keybase/keybase.txt public/.well-known
