@@ -8,6 +8,7 @@ slug = "wit-daily-life-1"
 tags = ["women_in_tech", "english"]
 title = "Women in Tech - Daily Life - #1"
 +++
+<!--more-->
 <br>
 
 ### Scene 1
