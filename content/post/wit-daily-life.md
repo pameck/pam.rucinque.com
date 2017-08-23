@@ -13,14 +13,14 @@ title = "Women in Tech - Daily Life - #1"
 
 ### Scene 1
 
-- Guy: team, louse coupling all the time
-- Team: oh yeah, yes, louse coupling is the best
+- Guy: team, loose coupling all the time
+- Team: oh yeah, yes, loose coupling is the best
 
 ### Scene 2
-- Woman: team, louse coupling all the time
+- Woman: team, loose coupling all the time
 - Dev: why?
 - Woman: well, because it allows you to change parts of the code without having to change it all.
 - Dev: hmmm, and what about \<insert super obscure exception\>
-- Woman: yes, that’s an exception. For the other times, louse coupling is a must.
-- Dev: right, so what _you really meant_ was louse coupling *most* of the times.
+- Woman: yes, that’s an exception. For the other times, loose coupling is a must.
+- Dev: right, so what _you really meant_ was loose coupling *most* of the times.
 - Woman: sigh.
